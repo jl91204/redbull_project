@@ -1,0 +1,318 @@
+ * Serving Flask app 'app' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+/home/opc/redbull_test/redbullenv/lib64/python3.6/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on https://10.0.0.223:8443/ (Press CTRL+C to quit)
+ * Restarting with stat
+/home/opc/redbull_test/redbullenv/lib64/python3.6/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+ * Debugger is active!
+ * Debugger PIN: 187-778-052
+/home/opc/redbull_test/redbullenv/lib64/python3.6/site-packages/werkzeug/serving.py:469: CryptographyDeprecationWarning: Python 3.6 is no longer supported by the Python core team. Therefore, support for it is deprecated in cryptography and will be removed in a future release.
+  from cryptography import x509
+74.82.47.2 - - [23/May/2022 16:46:48] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [23/May/2022 18:27:47] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+193.106.191.48 - - [23/May/2022 21:56:44] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [23/May/2022 22:00:20] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [23/May/2022 22:08:13] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+198.235.24.142 - - [23/May/2022 22:13:21] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [23/May/2022 22:14:04] "[33mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1[0m" 404 -
+193.106.191.48 - - [23/May/2022 22:21:19] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+193.106.191.48 - - [23/May/2022 22:25:51] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+193.106.191.48 - - [23/May/2022 22:34:34] "[33mGET /console/ HTTP/1.1[0m" 404 -
+193.106.191.48 - - [23/May/2022 22:41:15] "[33mPOST /Autodiscover/Autodiscover.xml HTTP/1.1[0m" 404 -
+193.106.191.48 - - [23/May/2022 22:44:00] "[33mGET /_ignition/execute-solution HTTP/1.1[0m" 404 -
+193.106.191.48 - - [23/May/2022 22:49:21] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [23/May/2022 23:01:29] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [23/May/2022 23:06:14] "[33mPOST /cgi-bin/../../../../bin/sh HTTP/1.1[0m" 404 -
+193.106.191.48 - - [23/May/2022 23:13:43] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [23/May/2022 23:16:55] "[33mGET /actuator/gateway/routes HTTP/1.1[0m" 404 -
+107.189.11.67 - - [23/May/2022 23:23:29] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+205.210.31.135 - - [23/May/2022 23:43:07] "GET / HTTP/1.1" 200 -
+64.227.160.75 - - [23/May/2022 23:58:06] "GET / HTTP/1.1" 200 -
+167.94.138.46 - - [24/May/2022 00:13:32] "[33mGET /api HTTP/1.1[0m" 404 -
+167.94.138.46 - - [24/May/2022 00:13:35] "GET / HTTP/1.1" 200 -
+167.94.138.46 - - [24/May/2022 00:13:35] "GET / HTTP/1.1" 200 -
+167.94.138.46 - - [24/May/2022 00:13:36] code 505, message Invalid HTTP version (2.0)
+167.94.138.46 - - [24/May/2022 00:13:36] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+216.218.206.66 - - [24/May/2022 03:18:51] "GET / HTTP/1.1" 200 -
+45.134.144.140 - - [24/May/2022 04:03:05] "[33mGET /remote/fgt_lang?lang=/../../../..//////////dev/ HTTP/1.1[0m" 404 -
+107.189.11.67 - - [24/May/2022 04:22:18] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+71.6.232.5 - - [24/May/2022 04:57:22] "GET / HTTP/1.1" 200 -
+192.241.208.93 - - [24/May/2022 09:16:59] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [24/May/2022 09:35:20] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+205.210.31.23 - - [24/May/2022 13:29:00] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [24/May/2022 14:47:36] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+192.241.221.112 - - [24/May/2022 18:09:35] "[33mGET /tmui/login.jsp HTTP/1.1[0m" 404 -
+137.184.227.126 - - [24/May/2022 18:37:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+193.106.191.48 - - [24/May/2022 18:56:30] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [24/May/2022 19:03:21] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [24/May/2022 19:07:30] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [24/May/2022 19:17:19] "[33mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1[0m" 404 -
+193.106.191.48 - - [24/May/2022 19:22:54] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+193.106.191.48 - - [24/May/2022 19:26:55] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+193.106.191.48 - - [24/May/2022 19:34:53] "[33mGET /console/ HTTP/1.1[0m" 404 -
+193.106.191.48 - - [24/May/2022 19:41:50] "[33mPOST /Autodiscover/Autodiscover.xml HTTP/1.1[0m" 404 -
+162.142.125.10 - - [24/May/2022 19:43:39] "[33mGET /api HTTP/1.1[0m" 404 -
+162.142.125.10 - - [24/May/2022 19:43:41] "GET / HTTP/1.1" 200 -
+162.142.125.10 - - [24/May/2022 19:43:42] "GET / HTTP/1.1" 200 -
+162.142.125.10 - - [24/May/2022 19:43:42] code 505, message Invalid HTTP version (2.0)
+162.142.125.10 - - [24/May/2022 19:43:42] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+193.106.191.48 - - [24/May/2022 19:46:29] "[33mGET /_ignition/execute-solution HTTP/1.1[0m" 404 -
+193.106.191.48 - - [24/May/2022 19:54:32] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [24/May/2022 19:59:05] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [24/May/2022 20:08:54] "[33mPOST /cgi-bin/../../../../bin/sh HTTP/1.1[0m" 404 -
+193.106.191.48 - - [24/May/2022 20:15:15] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [24/May/2022 20:20:25] "[33mGET /actuator/gateway/routes HTTP/1.1[0m" 404 -
+104.206.128.66 - - [25/May/2022 00:01:13] "GET / HTTP/1.1" 200 -
+184.105.139.68 - - [25/May/2022 01:15:57] "GET / HTTP/1.1" 200 -
+198.235.24.18 - - [25/May/2022 02:09:17] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [25/May/2022 09:47:46] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+216.218.134.12 - - [25/May/2022 14:25:49] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [25/May/2022 14:28:01] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+154.6.130.144 - - [25/May/2022 15:09:47] "OPTIONS / HTTP/1.1" 200 -
+2.57.122.233 - - [25/May/2022 15:29:42] "GET / HTTP/1.1" 200 -
+2.57.122.233 - - [25/May/2022 15:29:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.241.219.166 - - [25/May/2022 16:14:36] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [25/May/2022 16:28:43] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [25/May/2022 16:30:35] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [25/May/2022 16:35:33] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [25/May/2022 16:44:03] "[33mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1[0m" 404 -
+193.106.191.48 - - [25/May/2022 16:53:36] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+193.106.191.48 - - [25/May/2022 16:54:46] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+193.106.191.48 - - [25/May/2022 17:02:28] "[33mGET /console/ HTTP/1.1[0m" 404 -
+193.106.191.48 - - [25/May/2022 17:06:56] "[33mPOST /Autodiscover/Autodiscover.xml HTTP/1.1[0m" 404 -
+193.106.191.48 - - [25/May/2022 17:18:28] "[33mGET /_ignition/execute-solution HTTP/1.1[0m" 404 -
+193.106.191.48 - - [25/May/2022 17:22:41] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [25/May/2022 17:30:26] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [25/May/2022 17:34:27] "[33mPOST /cgi-bin/../../../../bin/sh HTTP/1.1[0m" 404 -
+193.106.191.48 - - [25/May/2022 17:44:25] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [25/May/2022 17:50:45] "[33mGET /actuator/gateway/routes HTTP/1.1[0m" 404 -
+107.189.11.67 - - [25/May/2022 19:44:13] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+35.166.136.125 - - [25/May/2022 22:42:00] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [26/May/2022 00:51:01] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+103.156.91.182 - - [26/May/2022 01:12:02] "GET / HTTP/1.1" 200 -
+54.241.124.255 - - [26/May/2022 02:14:25] "GET / HTTP/1.1" 200 -
+174.138.61.44 - - [26/May/2022 03:33:40] "GET / HTTP/1.1" 200 -
+74.82.47.5 - - [26/May/2022 03:45:34] "GET / HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 03:57:39] "GET / HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 03:57:39] "GET /images/Hero_image.png HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 03:57:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+/home/opc/redbull_test/redbull-analytics-hol/beginners/web/predictor.py:58: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df = lastqualif[(qualif['driver']==driver)]
+202.45.129.186 - - [26/May/2022 03:57:55] "POST /predict HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 03:57:56] "[36mGET /images/Hero_image.png HTTP/1.1[0m" 304 -
+/home/opc/redbull_test/redbull-analytics-hol/beginners/web/predictor.py:58: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df = lastqualif[(qualif['driver']==driver)]
+202.45.129.186 - - [26/May/2022 03:59:33] "POST /predict HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 03:59:33] "GET /images/Hero_image.png HTTP/1.1" 200 -
+/home/opc/redbull_test/redbull-analytics-hol/beginners/web/predictor.py:58: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df = lastqualif[(qualif['driver']==driver)]
+202.45.129.186 - - [26/May/2022 04:00:27] "POST /predict HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 04:00:28] "GET /images/Hero_image.png HTTP/1.1" 200 -
+/home/opc/redbull_test/redbull-analytics-hol/beginners/web/predictor.py:58: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df = lastqualif[(qualif['driver']==driver)]
+202.45.129.186 - - [26/May/2022 04:01:45] "POST /predict HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 04:01:45] "GET /images/Hero_image.png HTTP/1.1" 200 -
+/home/opc/redbull_test/redbull-analytics-hol/beginners/web/predictor.py:58: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df = lastqualif[(qualif['driver']==driver)]
+202.45.129.186 - - [26/May/2022 04:02:23] "POST /predict HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 04:02:24] "GET /images/Hero_image.png HTTP/1.1" 200 -
+167.248.133.62 - - [26/May/2022 04:59:36] "[33mGET /api HTTP/1.1[0m" 404 -
+167.248.133.62 - - [26/May/2022 04:59:39] "GET / HTTP/1.1" 200 -
+167.248.133.62 - - [26/May/2022 04:59:39] "GET / HTTP/1.1" 200 -
+167.248.133.62 - - [26/May/2022 04:59:40] code 505, message Invalid HTTP version (2.0)
+167.248.133.62 - - [26/May/2022 04:59:40] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+205.210.31.8 - - [26/May/2022 05:54:27] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [26/May/2022 05:55:05] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+202.45.129.186 - - [26/May/2022 07:04:47] "POST /predict HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 07:04:48] "[36mGET /images/Hero_image.png HTTP/1.1[0m" 304 -
+202.45.129.186 - - [26/May/2022 07:04:58] "POST /predict HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 07:04:58] "[36mGET /images/Hero_image.png HTTP/1.1[0m" 304 -
+202.45.129.186 - - [26/May/2022 07:05:09] "GET / HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 07:05:10] "GET /images/Hero_image.png HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 07:05:17] "POST /predict HTTP/1.1" 200 -
+202.45.129.186 - - [26/May/2022 07:05:17] "[36mGET /images/Hero_image.png HTTP/1.1[0m" 304 -
+107.189.11.67 - - [26/May/2022 12:16:53] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+156.251.172.207 - - [26/May/2022 13:24:36] "GET / HTTP/1.1" 200 -
+156.251.172.207 - - [26/May/2022 13:24:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+156.251.172.207 - - [26/May/2022 13:24:36] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+156.251.172.207 - - [26/May/2022 13:24:37] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 14:04:22] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [26/May/2022 14:10:47] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 14:21:07] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 14:24:15] "[33mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1[0m" 404 -
+111.192.243.233 - - [26/May/2022 14:26:35] "GET / HTTP/1.1" 200 -
+111.192.243.233 - - [26/May/2022 14:26:36] "[36mGET /images/Hero_image.png HTTP/1.1[0m" 304 -
+141.143.193.68 - - [26/May/2022 14:29:22] "GET / HTTP/1.1" 200 -
+141.143.193.68 - - [26/May/2022 14:29:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+141.143.193.68 - - [26/May/2022 14:29:24] "GET /images/Hero_image.png HTTP/1.1" 200 -
+174.203.110.145 - - [26/May/2022 14:32:38] "GET / HTTP/1.1" 200 -
+174.203.110.145 - - [26/May/2022 14:32:39] "GET /images/Hero_image.png HTTP/1.1" 200 -
+193.106.191.48 - - [26/May/2022 14:32:42] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+174.203.110.145 - - [26/May/2022 14:33:11] "POST /predict HTTP/1.1" 200 -
+174.203.110.145 - - [26/May/2022 14:33:12] "POST /predict HTTP/1.1" 200 -
+174.203.110.145 - - [26/May/2022 14:33:13] "[36mGET /images/Hero_image.png HTTP/1.1[0m" 304 -
+174.203.110.145 - - [26/May/2022 14:33:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 14:38:02] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 14:47:17] "[33mGET /console/ HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 14:50:59] "[33mPOST /Autodiscover/Autodiscover.xml HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 14:54:51] "[33mGET /_ignition/execute-solution HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 15:02:33] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [26/May/2022 15:13:23] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [26/May/2022 15:17:33] "[33mPOST /cgi-bin/../../../../bin/sh HTTP/1.1[0m" 404 -
+193.106.191.48 - - [26/May/2022 15:20:06] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [26/May/2022 15:32:14] "[33mGET /actuator/gateway/routes HTTP/1.1[0m" 404 -
+106.75.184.237 - - [26/May/2022 15:53:10] "GET / HTTP/1.0" 200 -
+106.75.173.98 - - [26/May/2022 15:54:21] "GET / HTTP/1.1" 200 -
+106.75.173.98 - - [26/May/2022 15:54:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+71.60.214.152 - - [26/May/2022 16:15:31] "GET / HTTP/1.1" 200 -
+71.60.214.152 - - [26/May/2022 16:15:31] "GET /images/Hero_image.png HTTP/1.1" 200 -
+71.60.214.152 - - [26/May/2022 16:15:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+107.189.11.67 - - [26/May/2022 17:51:46] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+192.241.205.231 - - [26/May/2022 18:35:57] "[33mGET /tmui/login.jsp HTTP/1.1[0m" 404 -
+198.235.24.14 - - [26/May/2022 21:06:12] "GET / HTTP/1.1" 200 -
+35.166.136.125 - - [26/May/2022 21:49:28] "GET / HTTP/1.1" 200 -
+205.210.31.158 - - [26/May/2022 21:59:23] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [26/May/2022 23:58:09] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:48:57] "GET / HTTP/1.1" 200 -
+139.177.191.248 - - [27/May/2022 01:49:01] "[33mGET /.DS_Store HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:01] "[33mGET /server-status HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:01] "[33mGET /.env HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:01] "GET /?rest_route=/wp/v2/users/ HTTP/1.1" 200 -
+139.177.191.248 - - [27/May/2022 01:49:01] "[33mGET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:02] "GET / HTTP/1.1" 200 -
+139.177.191.248 - - [27/May/2022 01:49:02] "[33mGET /s/lkx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:02] "[33mGET /info.php HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:02] "[33mGET /telescope/requests HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:02] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:03] "[33mGET /config.json HTTP/1.1[0m" 404 -
+139.177.191.248 - - [27/May/2022 01:49:03] "[33mGET /login.action HTTP/1.1[0m" 404 -
+192.241.219.179 - - [27/May/2022 03:39:29] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [27/May/2022 04:49:43] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+167.94.138.46 - - [27/May/2022 06:30:05] "[33mGET /api HTTP/1.1[0m" 404 -
+167.94.138.46 - - [27/May/2022 06:30:08] "GET / HTTP/1.1" 200 -
+167.94.138.46 - - [27/May/2022 06:30:08] "GET / HTTP/1.1" 200 -
+167.94.138.46 - - [27/May/2022 06:30:09] code 505, message Invalid HTTP version (2.0)
+167.94.138.46 - - [27/May/2022 06:30:09] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+107.189.11.67 - - [27/May/2022 09:50:32] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 11:27:38] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [27/May/2022 11:34:29] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 11:37:57] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 11:41:59] "[33mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 11:49:39] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+193.106.191.48 - - [27/May/2022 11:59:30] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 12:04:00] "[33mGET /console/ HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 12:11:14] "[33mPOST /Autodiscover/Autodiscover.xml HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 12:12:16] "[33mGET /_ignition/execute-solution HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 12:17:28] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [27/May/2022 12:26:34] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [27/May/2022 12:34:22] "[33mPOST /cgi-bin/../../../../bin/sh HTTP/1.1[0m" 404 -
+193.106.191.48 - - [27/May/2022 12:39:37] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [27/May/2022 12:47:21] "[33mGET /actuator/gateway/routes HTTP/1.1[0m" 404 -
+107.189.11.67 - - [27/May/2022 15:43:52] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+74.82.47.2 - - [27/May/2022 16:19:41] "GET / HTTP/1.1" 200 -
+94.102.61.23 - - [27/May/2022 18:38:08] "GET / HTTP/1.1" 200 -
+198.235.24.150 - - [27/May/2022 21:43:25] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [27/May/2022 22:05:51] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+205.210.31.13 - - [28/May/2022 00:20:12] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [28/May/2022 02:57:06] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+170.130.187.38 - - [28/May/2022 03:47:52] "GET / HTTP/1.1" 200 -
+192.241.212.101 - - [28/May/2022 06:14:02] "GET / HTTP/1.1" 200 -
+162.142.125.212 - - [28/May/2022 06:44:43] "[33mGET /api HTTP/1.1[0m" 404 -
+162.142.125.212 - - [28/May/2022 06:44:46] "GET / HTTP/1.1" 200 -
+162.142.125.212 - - [28/May/2022 06:44:47] "GET / HTTP/1.1" 200 -
+162.142.125.212 - - [28/May/2022 06:44:47] code 505, message Invalid HTTP version (2.0)
+162.142.125.212 - - [28/May/2022 06:44:47] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+94.102.61.23 - - [28/May/2022 06:54:39] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [28/May/2022 07:40:06] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 08:58:49] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [28/May/2022 09:02:25] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 09:09:49] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 09:18:51] "[33mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 09:23:51] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+193.106.191.48 - - [28/May/2022 09:28:25] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 09:33:07] "[33mGET /console/ HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 09:42:47] "[33mPOST /Autodiscover/Autodiscover.xml HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 09:49:15] "[33mGET /_ignition/execute-solution HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 09:52:53] "GET / HTTP/1.1" 200 -
+64.62.197.122 - - [28/May/2022 09:53:50] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [28/May/2022 10:03:12] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [28/May/2022 10:04:22] "[33mPOST /cgi-bin/../../../../bin/sh HTTP/1.1[0m" 404 -
+193.106.191.48 - - [28/May/2022 10:13:01] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [28/May/2022 10:21:33] "[33mGET /actuator/gateway/routes HTTP/1.1[0m" 404 -
+107.189.11.67 - - [28/May/2022 12:19:09] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+45.134.144.140 - - [28/May/2022 15:58:23] "[33mGET /remote/fgt_lang?lang=/../../../..//////////dev/ HTTP/1.1[0m" 404 -
+107.189.11.67 - - [28/May/2022 18:06:06] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+195.176.3.19 - - [28/May/2022 18:36:00] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [28/May/2022 22:35:24] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+65.49.20.68 - - [29/May/2022 00:12:31] "GET / HTTP/1.1" 200 -
+198.235.24.30 - - [29/May/2022 01:00:42] "GET / HTTP/1.1" 200 -
+54.183.22.41 - - [29/May/2022 02:03:52] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [29/May/2022 03:20:08] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:44] "GET / HTTP/1.1" 200 -
+167.172.185.132 - - [29/May/2022 03:26:49] "[33mGET /telescope/requests HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:50] "[33mGET /info.php HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:50] "[33mGET /server-status HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:50] "[33mGET /.env HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:50] "[33mGET /.DS_Store HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:51] "GET /?rest_route=/wp/v2/users/ HTTP/1.1" 200 -
+167.172.185.132 - - [29/May/2022 03:26:51] "[33mGET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:51] "GET / HTTP/1.1" 200 -
+167.172.185.132 - - [29/May/2022 03:26:51] "[33mGET /s/lkx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:52] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:52] "[33mGET /login.action HTTP/1.1[0m" 404 -
+167.172.185.132 - - [29/May/2022 03:26:52] "[33mGET /config.json HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 08:26:30] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [29/May/2022 08:34:27] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 08:35:35] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 08:41:04] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 08:46:30] "[33mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 08:47:18] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+193.106.191.48 - - [29/May/2022 08:53:31] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 09:00:46] "[33mGET /console/ HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 09:05:58] "[33mPOST /Autodiscover/Autodiscover.xml HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 09:11:38] "[33mGET /_ignition/execute-solution HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 09:20:48] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [29/May/2022 09:24:35] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [29/May/2022 09:30:45] "[33mPOST /cgi-bin/../../../../bin/sh HTTP/1.1[0m" 404 -
+193.106.191.48 - - [29/May/2022 09:38:26] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [29/May/2022 09:43:19] "[33mGET /actuator/gateway/routes HTTP/1.1[0m" 404 -
+107.189.11.67 - - [29/May/2022 13:25:10] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+139.59.31.143 - - [29/May/2022 13:26:40] "GET / HTTP/1.1" 200 -
+192.241.221.47 - - [29/May/2022 18:52:15] "GET / HTTP/1.1" 200 -
+198.235.24.155 - - [29/May/2022 18:59:02] "GET / HTTP/1.1" 200 -
+107.189.11.67 - - [29/May/2022 19:00:08] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+167.94.146.59 - - [29/May/2022 23:42:14] "[33mGET /api HTTP/1.1[0m" 404 -
+167.94.146.59 - - [29/May/2022 23:42:17] "GET / HTTP/1.1" 200 -
+167.94.146.59 - - [29/May/2022 23:42:18] "GET / HTTP/1.1" 200 -
+167.94.146.59 - - [29/May/2022 23:42:18] code 505, message Invalid HTTP version (2.0)
+167.94.146.59 - - [29/May/2022 23:42:18] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+107.189.11.67 - - [29/May/2022 23:45:42] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+107.189.11.67 - - [30/May/2022 04:54:01] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+184.105.139.69 - - [30/May/2022 05:28:14] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [30/May/2022 06:04:32] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [30/May/2022 06:13:10] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [30/May/2022 06:15:05] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+193.106.191.48 - - [30/May/2022 06:26:12] "[33mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1[0m" 404 -
+193.106.191.48 - - [30/May/2022 06:29:35] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+193.106.191.48 - - [30/May/2022 06:38:12] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+193.106.191.48 - - [30/May/2022 06:45:16] "[33mGET /console/ HTTP/1.1[0m" 404 -
+193.106.191.48 - - [30/May/2022 06:49:55] "[33mPOST /Autodiscover/Autodiscover.xml HTTP/1.1[0m" 404 -
+193.106.191.48 - - [30/May/2022 06:55:41] "[33mGET /_ignition/execute-solution HTTP/1.1[0m" 404 -
+193.106.191.48 - - [30/May/2022 07:03:57] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [30/May/2022 07:06:42] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [30/May/2022 07:16:41] "[33mPOST /cgi-bin/../../../../bin/sh HTTP/1.1[0m" 404 -
+193.106.191.48 - - [30/May/2022 07:23:39] "GET / HTTP/1.1" 200 -
+193.106.191.48 - - [30/May/2022 07:28:44] "[33mGET /actuator/gateway/routes HTTP/1.1[0m" 404 -
+167.248.133.45 - - [30/May/2022 07:44:44] "[33mGET /api HTTP/1.1[0m" 404 -
+167.248.133.45 - - [30/May/2022 07:44:47] "GET / HTTP/1.1" 200 -
+167.248.133.45 - - [30/May/2022 07:44:47] "GET / HTTP/1.1" 200 -
+167.248.133.45 - - [30/May/2022 07:44:47] code 505, message Invalid HTTP version (2.0)
+167.248.133.45 - - [30/May/2022 07:44:47] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+107.189.11.67 - - [30/May/2022 09:47:20] "[33mGET /manager/html HTTP/1.1[0m" 404 -
